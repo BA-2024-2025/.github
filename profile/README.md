@@ -25,5 +25,4 @@ Wenn euer Repo- Projekt auf GitHub nicht unique identifizierbar ist, wird euch e
 ## Work together not against eachother
 Ihr habt auf diesem Repo grundsätzlich vollen Zugriff auf alle Repos. Das bedeutet, ihr könnt den Code von anderen Teams ansehen oder kooperieren. Bitte verwendet dieses Feature nicht um Schaden an anderen Teams zu verursachen. (Alles im GitHub wird getracked und kann nachvollzogen werden). Falls dies Auftritt, hat es ernsthafte Konsequenzen!
 
-
 🙋‍♀️ Good Luck, Have Fun, Michi
