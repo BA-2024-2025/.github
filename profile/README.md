@@ -7,7 +7,7 @@ Happy Coding!
 
 ## Naming Convention
 - Repo- oder Projektnamen starten immer mit der Modulbezeichnung
-- Repo- oder Projektnamen beinhalten entweder den Namen des Projektteams, Namen der Projektmitglieder oder des Projektes.
+- Repo- oder Projektnamen beinhalten entweder den Namen des Projektteams, Namen der Projektmitglieder oder des Projektes (Falls dieser unique genug ist).
 
 ### Liste der Modulbezeichnungen:
 
